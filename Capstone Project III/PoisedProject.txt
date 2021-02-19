@@ -1,0 +1,4 @@
+Customer Details, Siphe Maluleke, 0834446574, siphe38@gmail.com, 2138 Glenwood
+Project Details, 58, Capstone Project II, Apartment, 223 PineTown, 334, 18500.0, 9500.0, 8-9-2010
+Architect Details, John Henry, 06577898584, JohnHen@gmail.com, 211 Crosewell
+Contractor Details, Even Bourne, 0836645986, EvanB@gmail.com, 45 Greenwood
